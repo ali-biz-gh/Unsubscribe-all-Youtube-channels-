@@ -1,13 +1,13 @@
 # Unsubscribe-all-Youtube-channels-
 How to unsubscribe from all the Youtube channels at once?
 
-##Step 1:
+## Step 1:
 Go to https://www.youtube.com/feed/channels and scroll to the bottom of the page to populate all items to the screen.
 
-##Step 2:
+## Step 2:
 Right-click anywhere on the page and click "Inspect Element" (or just "Inspect"), then click "Console", then copy–paste the below script, then hit return.
 
-##Step 3:
+## Step 3:
 
 ```
 var i = 0;
@@ -36,9 +36,9 @@ function myTimer() {
 
 ```
 
-##Step 4:
+## Step 4:
 Sit back and watch the magic!
 
 Enjoy!!
 
-##NOTE: If the script stops somewhere, please refresh the page and follow all four steps again.
+## NOTE: If the script stops somewhere, please refresh the page and follow all four steps again.
